@@ -6,6 +6,11 @@ body {
   padding-bottom: 90px;
   background-color: #fff4df;
   font-size: 18px !important;
+  a {
+    text-decoration: none;
+    color: #005088;
+    font-weight: 500;
+  }
 }
 
 .main {
@@ -108,6 +113,52 @@ margin-bottom: 20px;
   width: 80px;
   margin: 10px 0px 10px;
 }
+
+.rsvp-button {
+  display: block;
+  position: relative;
+  max-width: 200px;
+  text-align: center;
+  border: 1px solid  #005088;
+  padding: 10px;
+  border-radius: 50px;
+  margin: 12px 0px;
+  cursor: pointer;
+  img {
+    height: 25px;
+  }
+}
+
+.share-button {
+  display: block;
+  position: relative;
+  max-width: 200px;
+  text-align: center;
+  border: 1px solid  #005088;
+  padding: 10px;
+  border-radius: 50px;
+  margin: 12px 0px;
+  cursor: pointer;
+  img {
+    height: 25px;
+  }
+}
+
+.gfm-button {
+  display: block;
+  position: relative;
+  max-width: 200px;
+  text-align: center;
+  border: 1px solid  #07a95c;
+  padding: 7px;
+  border-radius: 50px;
+  margin: 12px 0px;
+  cursor: pointer;
+  img {
+    height: 30px;
+  }
+}
+
 
 .google-maps {
     position: relative;
