@@ -24,8 +24,8 @@ body { position: relative; font-family: 'Bricolage Grotesque', sans-serif; font-
 
 .duggans-logo { width: 130px; margin-left: -5px; margin-bottom: 8px; }
 
-.row { padding: 0px 20px; }
+.event { margin-bottom: 20px; }
 
-.section { margin-bottom: 30px; }
+.section { margin-bottom: 30px; padding: 0px 15px; }
 
 .lr-logo { width: 80px; margin: 10px 0px 10px; }
