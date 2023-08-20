@@ -1,14 +1,16 @@
-body { position: relative; font-family: 'Bricolage Grotesque', sans-serif; font-weight: 300; padding-bottom: 90px; background-color: #fff4df; }
+body { position: relative; font-family: 'Bricolage Grotesque', sans-serif; font-weight: 300 !important; padding-bottom: 90px; background-color: #fff4df; font-size: 18px !important; }
 
 .main { font-family: 'Bricolage Grotesque', sans-serif; font-weight: 300; background-color: #e9faff; }
 
 .bold { font-weight: 700; }
 
+.italic { font-style: italic; }
+
 .hero { background-image: url("../aj-hero-2.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 30% 40%; height: 60vh; position: relative; margin-bottom: 30px; }
 
 .hero-text { width: 300px; position: absolute; bottom: 0px; margin-bottom: -43px; margin-left: 15%; }
 
-.lifetime { font-size: 16px; color: #005088; margin-bottom: 15px; }
+.lifetime { color: #005088; margin-bottom: 15px; }
 
 .font-fam { font-family: 'Bricolage Grotesque', sans-serif; background-color: #e9faff; }
 
@@ -18,7 +20,7 @@ body { position: relative; font-family: 'Bricolage Grotesque', sans-serif; font-
 
 .gofundme-button img { width: 100%; }
 
-.drop-cap { float: left; width: 110px; position: relative; padding: 0px 10px 0px 0px; }
+.drop-cap { float: left; width: 120px; position: relative; padding: 0px 10px 0px 0px; }
 
 .drop-cap img { width: 100%; }
 

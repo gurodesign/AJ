@@ -2,9 +2,10 @@
 body {
   position: relative;
   font-family: 'Bricolage Grotesque', sans-serif;
-  font-weight: 300;
+  font-weight: 300 !important;
   padding-bottom: 90px;
   background-color: #fff4df;
+  font-size: 18px !important;
 }
 
 .main {
@@ -15,6 +16,10 @@ body {
 
 .bold {
   font-weight: 700;
+}
+
+.italic  {
+  font-style: italic;
 }
 
 .hero {
@@ -36,7 +41,6 @@ body {
 }
 
 .lifetime {
-  font-size: 16px;
   color: #005088;
   margin-bottom: 15px;
 }
@@ -70,7 +74,7 @@ body {
 
 .drop-cap {
   float: left;
-  width: 110px;
+  width: 120px;
   position: relative;
   padding: 0px 10px 0px 0px;
 }
