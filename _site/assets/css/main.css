@@ -12,6 +12,8 @@ body { position: relative; font-family: 'Bricolage Grotesque', sans-serif; font-
 
 .lifetime { color: #005088; margin-bottom: 15px; }
 
+.eyeglasses { margin-top: 20px; width: 100%; }
+
 .font-fam { font-family: 'Bricolage Grotesque', sans-serif; background-color: #e9faff; }
 
 .name-text { font-family: 'Libre Baskerville', serif; font-size: 28px; font-weight: 600; color: #005088; }
