@@ -4,7 +4,7 @@ body { position: relative; font-family: 'Bricolage Grotesque', sans-serif; font-
 
 .bold { font-weight: 700; }
 
-.hero { background-image: url("aj-hero-2.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 30% 40%; height: 60vh; position: relative; margin-bottom: 30px; }
+.hero { background-image: url("../aj-hero-2.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 30% 40%; height: 60vh; position: relative; margin-bottom: 30px; }
 
 .hero-text { width: 300px; position: absolute; bottom: 0px; margin-bottom: -43px; margin-left: 15%; }
 
