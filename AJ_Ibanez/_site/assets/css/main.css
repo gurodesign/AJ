@@ -1,0 +1,31 @@
+body { position: relative; font-family: 'Bricolage Grotesque', sans-serif; font-weight: 300; padding-bottom: 90px; background-color: #fff4df; }
+
+.main { font-family: 'Bricolage Grotesque', sans-serif; font-weight: 300; background-color: #e9faff; }
+
+.bold { font-weight: 700; }
+
+.hero { background-image: url("/assets/aj-hero-2.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 30% 40%; height: 60vh; position: relative; margin-bottom: 30px; }
+
+.hero-text { width: 300px; position: absolute; bottom: 0px; margin-bottom: -43px; margin-left: 15%; }
+
+.lifetime { font-style: italic; }
+
+.font-fam { font-family: 'Bricolage Grotesque', sans-serif; background-color: #e9faff; }
+
+.name-text { font-family: 'Libre Baskerville', serif; font-size: 28px; font-weight: 600; color: #005088; }
+
+.gofundme-button { display: block; max-width: 200px; margin: 15px 0px 15px; cursor: pointer; }
+
+.gofundme-button img { width: 100%; }
+
+.drop-cap { float: left; width: 110px; position: relative; padding: 0px 10px 0px 0px; }
+
+.drop-cap img { width: 100%; }
+
+.duggans-logo { width: 130px; margin-left: -5px; margin-bottom: 8px; }
+
+.row { padding: 0px 20px; }
+
+.section { margin-bottom: 30px; }
+
+.lr-logo { width: 80px; margin: 10px 0px 10px; }
