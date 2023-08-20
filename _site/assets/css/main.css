@@ -8,7 +8,7 @@ body { position: relative; font-family: 'Bricolage Grotesque', sans-serif; font-
 
 .hero-text { width: 300px; position: absolute; bottom: 0px; margin-bottom: -43px; margin-left: 15%; }
 
-.lifetime { font-style: italic; }
+.lifetime { font-size: 16px; color: #005088; margin-bottom: 15px; }
 
 .font-fam { font-family: 'Bricolage Grotesque', sans-serif; background-color: #e9faff; }
 
@@ -29,3 +29,7 @@ body { position: relative; font-family: 'Bricolage Grotesque', sans-serif; font-
 .section { margin-bottom: 30px; padding: 0px 15px; }
 
 .lr-logo { width: 80px; margin: 10px 0px 10px; }
+
+.google-maps { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; }
+
+.google-maps iframe { position: absolute; top: 0; left: 0; width: 100% !important; height: 100% !important; }

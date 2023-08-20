@@ -36,9 +36,15 @@ body {
 }
 
 .lifetime {
-  font-style: italic;
+  font-size: 16px;
+  color: #005088;
+  margin-bottom: 15px;
 }
 
+.Relation {
+  // font-style: italic;
+}
+ 
 .font-fam {
   font-family: 'Bricolage Grotesque', sans-serif;
   background-color: #e9faff;
@@ -93,16 +99,16 @@ margin-bottom: 20px;
   margin: 10px 0px 10px;
 }
 
-// .google-maps {
-//     position: relative;
-//     padding-bottom: 75%; // This is the aspect ratio
-//     height: 0;
-//     overflow: hidden;
-// }
-// .google-maps iframe {
-//   position: absolute;
-//   top: 0;
-//   left: 0;
-//   width: 100% !important;
-//   height: 100% !important;
-// }
+.google-maps {
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
