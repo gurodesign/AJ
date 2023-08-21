@@ -13,7 +13,7 @@ body a { text-decoration: none; color: #005088; font-weight: 500; }
 
 .lifetime { color: #005088; margin-bottom: 15px; }
 
-.eyeglasses { margin-top: 20px; width: 100%; }
+.eyeglasses { margin-top: 20px; max-width: 100%; }
 
 .font-fam { font-family: 'Bricolage Grotesque', sans-serif; background-color: #e9faff; }
 
@@ -47,3 +47,5 @@ body a { text-decoration: none; color: #005088; font-weight: 500; }
 .google-maps { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; }
 
 .google-maps iframe { position: absolute; top: 0; left: 0; width: 100% !important; height: 100% !important; }
+
+@media screen and (min-width: 900px) { .eyeglasses { max-width: 500px; } }

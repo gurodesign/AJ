@@ -52,7 +52,7 @@ body {
 
 .eyeglasses {
   margin-top: 20px;
-  width: 100%;
+  max-width: 100%;
 }
 
 
@@ -173,3 +173,11 @@ margin-bottom: 20px;
   width: 100% !important;
   height: 100% !important;
 }
+
+@media screen and (min-width: 900px) {
+  .eyeglasses {
+    max-width: 500px;
+  }
+}
+
+
